@@ -1,0 +1,15 @@
+C:\Users\jnrm\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\bin\Debug\net5.0\SerializeAndDeserialize.exe
+C:\Users\jnrm\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\bin\Debug\net5.0\SerializeAndDeserialize.deps.json
+C:\Users\jnrm\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\bin\Debug\net5.0\SerializeAndDeserialize.runtimeconfig.json
+C:\Users\jnrm\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\bin\Debug\net5.0\SerializeAndDeserialize.runtimeconfig.dev.json
+C:\Users\jnrm\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\bin\Debug\net5.0\SerializeAndDeserialize.dll
+C:\Users\jnrm\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\bin\Debug\net5.0\ref\SerializeAndDeserialize.dll
+C:\Users\jnrm\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\bin\Debug\net5.0\SerializeAndDeserialize.pdb
+C:\Users\jnrm\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\obj\Debug\net5.0\SerializeAndDeserialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnrm\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\obj\Debug\net5.0\SerializeAndDeserialize.AssemblyInfoInputs.cache
+C:\Users\jnrm\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\obj\Debug\net5.0\SerializeAndDeserialize.AssemblyInfo.cs
+C:\Users\jnrm\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\obj\Debug\net5.0\SerializeAndDeserialize.csproj.CoreCompileInputs.cache
+C:\Users\jnrm\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\obj\Debug\net5.0\SerializeAndDeserialize.dll
+C:\Users\jnrm\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\obj\Debug\net5.0\ref\SerializeAndDeserialize.dll
+C:\Users\jnrm\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\obj\Debug\net5.0\SerializeAndDeserialize.pdb
+C:\Users\jnrm\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\obj\Debug\net5.0\SerializeAndDeserialize.genruntimeconfig.cache
